@@ -1,0 +1,19 @@
+Init : w = [7.48017878406504, 1.5029757421572099]
+Init : b = 9.308687302877367
+----------------
+finalCost at epoch_0000 : 392.8843322825269
+finalCost at epoch_0001 : 0.01409451936382311
+finalCost at epoch_0002 : 2.3020185001138005e-06
+finalCost at epoch_0003 : 3.31638689963663e-09
+finalCost at epoch_0004 : 2.4369905209488743e-11
+finalCost at epoch_0005 : 2.592535119417573e-11
+finalCost at epoch_0006 : 2.8857173296975916e-11
+finalCost at epoch_0007 : 2.7711813123084197e-11
+finalCost at epoch_0008 : 2.264996786589986e-11
+finalCost at epoch_0009 : 2.289693634075895e-11
+--- [Result] ---
+False xor False = 7.17864566013e-07
+True  xor False = 1.00000030063
+False xor True  = 1.00000023581
+True  xor True  = 6.53042263821e-07
+----------------
